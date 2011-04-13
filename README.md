@@ -1,6 +1,7 @@
 PhoneGap-Start
 ---
 
-A starting point for PhoneGap apps.
+Este es un punto de partida para una app en PhoneGap
 
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+Puedes: fork este repo, modificar el archivo config.xml y construirla.
+
